@@ -1,0 +1,3 @@
+C:/Users/Фаниль/CLionProjects/Dz_st_DP_nedelya_1/cmake-build-debug/CMakeFiles/Dz_st_DP_nedelya_1.dir
+C:/Users/Фаниль/CLionProjects/Dz_st_DP_nedelya_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Фаниль/CLionProjects/Dz_st_DP_nedelya_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
